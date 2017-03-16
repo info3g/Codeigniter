@@ -1,0 +1,357 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+	outline:none;
+	border:none;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,300);
+
+body{
+	float:left;
+	width:100%;
+	font-family: 'Lato', sans-serif;
+}
+
+.wrapper{
+	max-width:1320px;
+	position:relative;
+	margin:0 auto;
+	padding:0 15px;
+}
+
+.top-header {
+  float: left;
+  padding: 15px;
+  width: 100%;
+}
+.top-header .site-logo{
+	float:left;
+	width:100%;
+}
+.top-header .visit {
+  float: left;
+  margin-top: 10px;
+  text-align: right;
+  width: 100%;
+}
+.top-header .user {
+  float: right;
+  width: 30%;
+}
+.top-header .logout {
+  float: right;
+  width: 18%;
+}
+.top-header .user span {
+  font-size: 14px;
+  font-weight: 300;
+  position:relative;
+}
+.top-header .logout span::before {
+  left: -30px;
+  position: absolute;
+  top: -5px;
+  content:"\f08b";
+  font-family:'FontAwesome';
+  font-size:20px;
+}
+.top-header .logout span {
+  font-size: 14px;
+  font-weight: 300;
+  position:relative;
+}
+.top-header .user span::before {
+  background: rgba(0, 0, 0, 0) url("../images/user.png") no-repeat scroll 0 0;
+  content: "";
+  height: 50px;
+  left: -60px;
+  position: absolute;
+  top: -15px;
+  width: 50px;
+}
+
+.process {
+  background: #e9ecf3 none repeat scroll 0 0;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3) inset;
+  float: left;
+  width: 100%;
+  padding-bottom:20px;
+}
+
+.service{
+	float:left;
+	width:100%;
+	margin:20px 0;
+}
+.service ul{
+	list-style:none;
+}
+.service ul li{
+	width:20%;
+	float:left;
+	border-right:solid 1px #fff;
+	text-align:center;
+	padding:18px 0;
+	background:#ef5350;
+}
+.service ul li:nth-child(2){
+	background:#5c6bc0;
+}
+.service ul li:nth-child(3){
+	background:#7cb342;
+}
+.service ul li:nth-child(4){
+	background:#ffc107;
+}
+.service ul li:nth-child(5){
+	background:#7e57c2;
+}
+.service ul li a{
+	text-decoration:none;
+	line-height: 28px;
+}
+.service ul li i{
+	color:#fff;
+	font-size:35px;
+	opacity:0.8;
+}
+.service ul li span {
+    color: #fff;
+    float: left;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    width: 100%;
+}
+.service ul li ul{width:100%;display:none;}
+.service ul li ul li{width:100%;padding:0}
+.service ul li ul li a{color:#fff; padding:18px 0;}
+.service ul li ul li a:hover{background-color:transparent;background:none;}
+
+.left-sec{
+	float:left;
+	width:100%;
+}
+.left-sec .see-option{
+	float:left;
+	width:100%;
+}
+.left-sec .see-option ul{
+	list-style:none;
+}
+.left-sec .see-option ul li {
+  background: #009a4f none repeat scroll 0 0;
+  border-radius: 5px;
+  float: left;
+  margin-right: 5%;
+  padding: 10px 0;
+  text-align: center;
+  width: 30%;
+}
+.left-sec .see-option ul li:last-child{
+	margin-right:0;
+}
+.left-sec .see-option ul li a{
+	color:#e9ecf3;
+	font-size:16px;
+	font-weight:700;
+	text-decoration:none;
+}
+.left-sec .see-option ul li i{
+	font-size:16px;
+	color:#fff;
+	padding-right:5px;
+}
+.left-sec .search{
+	float:left;
+	width:100%;
+	margin:11px 0;
+}
+.left-sec .search input[type="text"] {
+  border: 1px solid #f2f6f9;
+  color: #767676;
+  font-size: 16px;
+  font-weight: 300;
+  height: 36px;
+  padding: 0 15px 0 45px;
+  position: relative;
+  width: 100%;
+}
+.find button {
+  border: 1px solid #f2f6f9;
+  color: #000;
+  height: 36px;
+  left: 16px;
+  position: absolute;
+  top: 53px;
+  width: 36px;
+}
+
+.portfolio{
+	float:left;
+	width:100%;
+}
+.portfolio h2{
+	font-size:16px;
+	font-weight:700;
+	color:#fff;
+	background:#005aab;
+	padding:11px 18px;
+	text-transform:uppercase;
+	margin-top: 0;
+}
+.widget-header{
+	background:#005aab;
+	border:none;
+}
+.widget-header h3 {
+	font-size:16px;
+	font-weight:700;
+	color:#fff;	
+	padding:11px 18px;
+	text-transform:uppercase;
+	margin-top: 0;	
+}
+.widget-header i{color:#fff !important;}
+.portfolio ul{
+	list-style: outside none none;
+    max-height: 150px;
+    overflow-y: scroll;
+    padding: 0 18px;
+}
+.portfolio ul li{
+	font-size:14px;
+	color:#212121;
+	line-height:24px;
+}
+.portfolio input{
+	border-radius:3px;
+	background:#e9ecf3;
+	outline:none;
+	border:none;
+	margin-right:10px;
+}
+
+.right-sec{
+	float:left;
+	width:100%;
+	background:#005aab;
+}
+.right-sec h2 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 0;
+  padding: 1px 0 4px 35px;
+  position: relative;
+}
+.right-sec h2:before{
+	position:absolute;
+	top:0;
+	left:10px;
+	color:#fff;
+	font-size:20px;
+	content:"\f007";
+	font-family:'FontAwesome';
+}
+
+.client-details{
+	float:left;
+	width:100%;
+}
+.client-details .inner-detail{
+	float:left;
+	width:100%;
+	background:#e6f0f8;
+	padding:10px 17px;
+}
+.client-details .inner-detail ul{
+	list-style:none;
+}
+.client-details .inner-detail ul li{
+	float:left;
+	font-size:16px;
+	color:#212121;
+	text-transform:uppercase;
+}
+.client-details .inner-detail ul li:nth-child(1){
+	width:17%;
+}
+.client-details .inner-detail ul li:nth-child(2){
+	width:38%;
+}
+.client-details .inner-detail ul li:nth-child(3){
+	width:30%;
+}
+.client-details .inner-detail ul li:nth-child(4){
+	width:15s%;
+}
+.client-details .inner-dis{
+	float:left;
+	width:100%;
+	padding:10px 17px;
+	background:#fff;
+}
+.client-details .inner-dis ul{
+	list-style:none;
+}
+.client-details .inner-dis ul li{
+	float:left;
+	font-size:14px;
+	color:#212121;
+	font-weight:300;
+}
+.client-details .inner-dis ul li:nth-child(1){
+	width:17%;
+}
+.client-details .inner-dis ul li:nth-child(2){
+	width:38%;
+}
+.client-details .inner-dis ul li:nth-child(3){
+	width:30%;
+}
+.client-details .inner-dis ul li:nth-child(4){
+	width:15%;
+}
+.map{
+	float:left;
+	width:100%;
+	margin-top:20px;
+}
+.map > img {
+  max-width: 100%;
+}
+
+.footer{
+	float:left;
+	width:100%;
+	background:#f3f1ed;
+}
+.footer .copy {
+  float: left;
+  width: 100%;
+}
+.footer .copy p {
+  color: #005aab;
+  font-size: 16px;
+  margin-bottom: 0;
+  padding: 15px 0;
+}
+.footer .copy i{
+	margin-right:5px;
+}
+
+
+
+/* Responsive css Start here */
+
+.client-details .inner-detail ul li:nth-child(3) {
+  width: 28%;
+}
+

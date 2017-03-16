@@ -1,0 +1,82 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2016-08-30 02:27:40 --> 404 Page Not Found: Images/trans_emblem.png
+ERROR - 2016-08-30 02:27:49 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 02:29:21 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 02:30:06 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 02:30:14 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 02:30:53 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 03:51:36 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 03:51:40 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 03:51:42 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 03:54:10 --> Severity: Parsing Error --> syntax error, unexpected end of file /home/ginfo/public_html/ecohca/application/controllers/Reports.php 2223
+ERROR - 2016-08-30 03:54:20 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 03:54:22 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 03:54:26 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 03:54:36 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Select AND r.`material_identi` =  AND r.`friability` = '' and r.`access` = '' an' at line 1 - Invalid query: SELECT * FROM `room_by_room` as r,`material` as m, `actions` as a WHERE r.`building_ID` = 6 AND r.`system_ID` = 2 AND r.`material_ID` = Please Select AND r.`material_identi` =  AND r.`friability` = '' and r.`access` = '' and r.`r_hazard` = 'Confirmed Asbestos' and r.material_ID = m.id   AND r.action = a.a_id group by r.`friability`
+ERROR - 2016-08-30 03:54:36 --> Severity: Error --> Call to a member function result() on a non-object /home/ginfo/public_html/ecohca/application/models/Building_model.php 832
+ERROR - 2016-08-30 03:56:06 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 03:56:09 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 04:25:06 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 04:25:16 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 04:25:41 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 04:48:29 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:02:36 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:02:54 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:13:01 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:15:12 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:16:36 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:18:50 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:20:49 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:22:38 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:23:32 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:30:19 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:32:24 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:32:33 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:43:35 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:43:58 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:44:50 --> Severity: Error --> Function name must be a string /home/ginfo/public_html/ecohca/application/controllers/Reports.php 1815
+ERROR - 2016-08-30 06:45:45 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:46:20 --> Severity: Error --> Function name must be a string /home/ginfo/public_html/ecohca/application/controllers/Reports.php 1815
+ERROR - 2016-08-30 06:47:16 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:50:28 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:54:15 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 06:57:25 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:00:18 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:02:47 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:05:41 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:09:54 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:15:59 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:18:55 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:32:14 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:32:19 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:33:46 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:39:06 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:45:06 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:45:29 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:47:11 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:49:14 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:50:51 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:53:52 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:54:45 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:55:34 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 07:58:49 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:01:25 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:02:35 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:04:47 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:08:17 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:09:29 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:14:20 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:15:33 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:20:38 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:35:03 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:35:45 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:36:50 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:37:48 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:39:39 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:39:53 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:41:19 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:42:28 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:44:12 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:59:23 --> 404 Page Not Found: Assets/images
+ERROR - 2016-08-30 08:59:30 --> 404 Page Not Found: Assets/images

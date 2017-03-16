@@ -1,0 +1,323 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2016-12-26 00:00:38 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:05:18 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:06:34 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:06:37 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:26:05 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:26:09 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:28:24 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:29:59 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:32:21 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:32:24 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:32:38 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:32:49 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:33:03 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:33:07 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:33:12 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:34:37 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:39:03 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:39:18 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:39:26 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:39:47 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:39:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/building/building.php 64
+ERROR - 2016-12-26 00:39:58 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:40:01 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:40:04 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:40:07 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:40:10 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 00:43:01 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 01:06:52 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 01:07:13 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 01:51:58 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 01:52:00 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 01:52:28 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 02:02:31 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 02:05:15 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 02:08:46 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 02:10:54 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 02:39:44 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 02:39:53 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 02:40:46 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 02:46:10 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 02:48:08 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 02:48:56 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 02:49:16 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 02:57:58 --> 404 Page Not Found: Images/trans_emblem.png
+ERROR - 2016-12-26 02:58:08 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 03:01:16 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 03:12:13 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 03:12:21 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 03:18:11 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 03:20:41 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 03:20:51 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 03:23:04 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 04:52:25 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:07:26 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:07:40 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:10:00 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:10:05 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:16:05 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:16:12 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:18:29 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:27:31 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:27:34 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:27:39 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:28:33 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:28:35 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:29:02 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:29:06 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `trash` =0' at line 1 - Invalid query: SELECT `location_id` FROM `location` WHERE `l_id` IN ( 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59,  ) AND `trash` =0
+ERROR - 2016-12-26 05:29:06 --> Severity: Error --> Call to a member function result() on a non-object /home/ginfo/public_html/ecohca/application/models/Building_model.php 599
+ERROR - 2016-12-26 05:29:20 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:29:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND `trash` =0' at line 1 - Invalid query: SELECT `location_id` FROM `location` WHERE `l_id` IN ( 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 40, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 39, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59, 59,  ) AND `trash` =0
+ERROR - 2016-12-26 05:29:25 --> Severity: Error --> Call to a member function result() on a non-object /home/ginfo/public_html/ecohca/application/models/Building_model.php 599
+ERROR - 2016-12-26 05:29:32 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:29:34 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:29:48 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:32:32 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:32:54 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:34:51 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:35:02 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:35:05 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:35:10 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:35:13 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:41:03 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 05:50:10 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 06:40:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order_by mi.m_id desc' at line 1 - Invalid query: SELECT mi. * , b.building_name, m.material_name, s.system_name FROM `material_identification` AS mi, `building` AS `b` , `material` AS `m`, `system_data` as s WHERE mi.`building_id` =6 AND mi.`building_id` = b.id AND mi.`material_id` = m.id AND mi.`system` = s.id AND mi.`status` = 0 order_by mi.m_id desc
+ERROR - 2016-12-26 06:40:55 --> Severity: Error --> Call to a member function result() on a non-object /home/ginfo/public_html/ecohca/application/models/Dashboard_model.php 216
+ERROR - 2016-12-26 06:40:57 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order_by mi.m_id desc' at line 1 - Invalid query: SELECT mi. * , b.building_name, m.material_name, s.system_name FROM `material_identification` AS mi, `building` AS `b` , `material` AS `m`, `system_data` as s WHERE mi.`building_id` =6 AND mi.`building_id` = b.id AND mi.`material_id` = m.id AND mi.`system` = s.id AND mi.`status` = 0 order_by mi.m_id desc
+ERROR - 2016-12-26 06:40:57 --> Severity: Error --> Call to a member function result() on a non-object /home/ginfo/public_html/ecohca/application/models/Dashboard_model.php 216
+ERROR - 2016-12-26 06:41:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order_by mi.m_id desc' at line 1 - Invalid query: SELECT mi. * , b.building_name, m.material_name, s.system_name FROM `material_identification` AS mi, `building` AS `b` , `material` AS `m`, `system_data` as s WHERE mi.`building_id` =6 AND mi.`building_id` = b.id AND mi.`material_id` = m.id AND mi.`system` = s.id AND mi.`status` = 0 order_by mi.m_id desc
+ERROR - 2016-12-26 06:41:01 --> Severity: Error --> Call to a member function result() on a non-object /home/ginfo/public_html/ecohca/application/models/Dashboard_model.php 216
+ERROR - 2016-12-26 06:43:38 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 06:43:50 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 06:44:43 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 06:44:50 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 07:16:25 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 07:17:05 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 07:17:18 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 07:17:42 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 15:51:08 --> 404 Page Not Found: Images/trans_emblem.png
+ERROR - 2016-12-26 15:51:11 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 15:51:20 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 15:51:23 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 15:51:31 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 15:51:34 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 15:51:40 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 15:53:38 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 15:53:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1208
+ERROR - 2016-12-26 15:53:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1242
+ERROR - 2016-12-26 15:53:54 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 15:54:16 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 15:54:31 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 15:56:38 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 15:56:43 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 15:57:50 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 15:58:32 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:00:04 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:00:09 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:01:45 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:01:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1208
+ERROR - 2016-12-26 16:01:56 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1242
+ERROR - 2016-12-26 16:01:56 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:02:08 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:02:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1208
+ERROR - 2016-12-26 16:02:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1242
+ERROR - 2016-12-26 16:02:12 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:02:23 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:02:40 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:04:20 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:04:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1208
+ERROR - 2016-12-26 16:04:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1242
+ERROR - 2016-12-26 16:04:30 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:05:37 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:05:46 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:07:28 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:07:47 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:08:24 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:08:49 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:09:59 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1208
+ERROR - 2016-12-26 16:10:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1242
+ERROR - 2016-12-26 16:10:03 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:10:16 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:10:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1208
+ERROR - 2016-12-26 16:10:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1242
+ERROR - 2016-12-26 16:10:21 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:10:38 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:10:41 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1208
+ERROR - 2016-12-26 16:10:41 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1242
+ERROR - 2016-12-26 16:10:41 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:10:56 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1208
+ERROR - 2016-12-26 16:10:58 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1242
+ERROR - 2016-12-26 16:10:59 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:12:26 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:12:32 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:13:26 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:13:34 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:14:23 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:14:29 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:15:15 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:15:45 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:15:50 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:16:26 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:16:29 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:17:02 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:17:05 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:17:10 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:18:09 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:18:13 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:18:55 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:18:58 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:19:41 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:19:45 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:20:14 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:20:20 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:20:26 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:20:31 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:20:38 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:20:40 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:20:47 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:20:56 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:21:12 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:21:19 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:21:24 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:22:28 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:22:37 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:23:39 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:23:45 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:24:40 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:24:45 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:25:49 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:25:52 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:27:00 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:27:03 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:28:23 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:28:40 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:29:21 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:29:25 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:30:40 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:31:09 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:31:14 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:31:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1208
+ERROR - 2016-12-26 16:31:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/ginfo/public_html/ecohca/application/views/location/edit_location.php 1242
+ERROR - 2016-12-26 16:31:23 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:32:07 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:32:12 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:33:30 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:33:35 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:35:02 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:35:06 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 16:35:56 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 18:56:30 --> 404 Page Not Found: Images/trans_emblem.png
+ERROR - 2016-12-26 18:56:34 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 18:56:38 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 18:56:52 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 18:56:58 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 18:57:02 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 18:57:11 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 18:59:31 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 18:59:47 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:00:45 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:01:29 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:02:08 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:02:13 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:02:52 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:03:03 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:04:22 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:04:30 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:05:06 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:05:08 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:05:45 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:05:57 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:06:50 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:06:55 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:08:26 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:28:26 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:29:46 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:29:49 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:30:29 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:30:33 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:30:36 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:30:42 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:31:36 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:31:50 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:32:35 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:32:39 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:32:45 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:33:55 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:34:01 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:34:52 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:35:05 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:35:31 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:35:37 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:36:08 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:36:35 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:36:40 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:37:43 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:38:05 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:38:24 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:38:36 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:38:41 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:39:13 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:39:25 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:41:32 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:41:42 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:43:17 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:46:27 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:47:21 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:47:29 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:49:30 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:49:33 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:50:14 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:50:17 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:51:18 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:51:25 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:51:50 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:51:52 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:52:23 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:52:39 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:53:06 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:53:13 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:53:50 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:53:56 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:54:07 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:54:34 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:54:37 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:55:04 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:55:30 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 19:56:20 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:07:26 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:07:30 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:07:33 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:08:14 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:08:32 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:08:55 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:08:57 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:09:20 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:09:35 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:09:38 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:10:06 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:10:10 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:10:37 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:24:11 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:24:14 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:24:19 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:25:07 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:25:10 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:25:47 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:25:49 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:26:12 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:26:22 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:27:19 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:27:22 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:28:26 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:28:54 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:29:07 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 20:31:32 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 21:22:09 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 21:24:59 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 23:59:14 --> 404 Page Not Found: Images/trans_emblem.png
+ERROR - 2016-12-26 23:59:21 --> 404 Page Not Found: Assets/images
+ERROR - 2016-12-26 23:59:29 --> 404 Page Not Found: Assets/images
